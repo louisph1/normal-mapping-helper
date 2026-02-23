@@ -1,7 +1,9 @@
 This tool is for generating the required RGB values for normal mapping
 
+![Image Missing :(](wheel.png)
+
 Usage:
-1. Take a screenshot of the image output and use an image editor
+1. Copy wheel.png and paste it into any image editor.
 2. Use the terminal text input to enter the angles on a sphere you want and get back an RGB value. Good for getting precise and consistent values.
 
 Notes:
