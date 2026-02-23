@@ -9,7 +9,6 @@ Notes:
 2. There is no windows build because this langauge's cross compiler does not work.
 3. There is no linux build because you guys can do it yourselves.
 
-
 Todo:
 1. Somehow compile a windows build
 2. Disallow window resizing or make the circle fill the viewport
